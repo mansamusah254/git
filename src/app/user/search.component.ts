@@ -43,7 +43,7 @@ export class SearchComponent implements OnInit {
         this.resultCount = 10;
 
     }
-    showMe:boolean=false
+    showMe:boolean=true
     toggleTag(){
       this.showMe=!this.showMe
     }

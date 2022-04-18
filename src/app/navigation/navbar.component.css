@@ -1,5 +1,4 @@
 .navbar-dark a {
-    /*float: left;*/
     display: block;
     color: dodgerblue;
     text-align: center;
@@ -9,9 +8,9 @@
 }
 
 
-* {box-sizing: border-box;}
+/* * {box-sizing: border-box;} */
 
 .navbar-dark {
     overflow: hidden;
-    background-color: #a6ded5;
+    background-color: #d0e4e0;
 }
