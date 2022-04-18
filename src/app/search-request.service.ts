@@ -67,6 +67,7 @@ export class SearchRequestService {
         return myPromise;
     }
 
+    
 
     gitRepos(searchName) {
         interface ApiResponse {

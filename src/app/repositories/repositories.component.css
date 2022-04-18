@@ -8,7 +8,7 @@ p {
 }
 .btn{
     margin-top: 30px;
-    background-color: #056b5b;
+    background-color: #18d9dd;
 }
 
 .seeMorebtn{
@@ -19,12 +19,11 @@ p {
     margin-bottom: 0.3rem;
 }
 
-/*user form*/
+
 .search-form p {
     font-size: 30px;
     margin: 0;
     justify-content: left;
     align-items: left;
-    /*position: sticky;*/
 }
 
