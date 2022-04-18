@@ -15,7 +15,9 @@ export class SearchFormComponent implements OnInit {
         console.log(data.value.find)
         data.reset();
     }
-
+    // toggleTag(){
+    //   this.showMe=!this.showMe
+    // }
 
   constructor() { }
 

@@ -16,7 +16,7 @@ input[type=submit] {
     background-color: #056b5b;
     color: white;
     text-align: center;
-    /* width: 50%; */
+  
 }
 
 
@@ -27,7 +27,6 @@ button {
     margin: 8px 0;
     border: none;
     cursor: pointer;
-    /* width: 100%; */
     opacity: 0.9;
 }
 

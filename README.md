@@ -1,28 +1,20 @@
 # GithubSearch
 
-Second Independent project for Moringa Core, June 1,2018
-
-
-
 ## Description
-A single page application for searching github users and repositories. The site uses the Github API to perform searches on Github, and display the results to the users.The website is made using angular js framework, and uses components, custom directives, custom pipes, routing modules and classes to make the finished product.
+This is a web application used for searching github users and repositories. The site uses the Github API to perform searches on Github, and display the results to the users.
 
 ## Technologies Used
-HTML
+* HTML
+* CSS 
+* Bootstrap
+* Angular 
 
-BOOTSTRAP
-
-Angular js
-
+## BDD
+The user inputs thier github repository name and clicks on the search button after that it will display the users repositories. The user can click on the repository and direct them to thier github account. 
 
 ## Known Bugs
 
-No known bugs so far
+No known bugs so far..we all good.
 
 ## License
 
-Copyright (c) Permission is hereby granted, free of charge, to any person obtaining a copy of this code
-
-## Further help
-
-contact me for for further help

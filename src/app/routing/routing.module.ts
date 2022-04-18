@@ -10,8 +10,6 @@ const routes: Routes = [
     {path: 'repository', component: RepositoriesComponent},
     {path: '', redirectTo: '/users', pathMatch: 'full'},
 
-
-
 ];
 
 @NgModule({
